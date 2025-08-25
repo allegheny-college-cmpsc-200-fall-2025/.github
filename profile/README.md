@@ -14,3 +14,8 @@ investigate the design and logical operation of processors and the mathematics o
 * Develop C and Assembly language programs which use the appropriate levels of the Memory Hierarchy and processor registers to create performant, executable programs and arithmetic logic units
 * Describe and use parallel processing techniques to increase a program’s performance and efficiency
 * Integrate hardware and software components using original C and Assembly language code to develop hardware-based, performant computational projects
+
+## Important links
+
+* [Course syllabus](https://github.com/allegheny-college-cmpsc-200-fall-2025/course-materials?tab=readme-ov-file#syllabus)
+* [Course calendar](https://chompe.rs/200-schedule)
